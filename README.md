@@ -1,8 +1,7 @@
 # webcrawler
-Udacity - PROJECT 5 - Parallel Web Crawler
+Parallel Web Crawler
 
-Welcome! This is your first week at the startup, UdaciSearch. You've been hired on as an Engineer, and you're really excited to make a big splash. UdaciSearch is interested in figuring out popular search terms on the internet in order to improve the SEO of their clients. Everyone wants to pop up at the top of a potential user's search!
-You are given the source code for your company's legacy web crawler, which is single-threaded. You notice it's a bit slow, and you quickly realize a way to improve its performance and impress your new manager. You can upgrade the code to take advantage of multi-core architectures to increase crawler throughput. Furthermore, you will measure the performance of your crawler to prove that, given the same amount of time, the multi-threaded implementation can visit more web pages than the legacy implementation. It might just be your first week, but you're set to impress!
+Given the source code for a company's legacy web crawler, which is single-threaded. It's a bit slow, and to improve its performance upgrade the code to take advantage of multi-core architectures to increase crawler throughput. Furthermore, to measure the performance of the crawler to prove that, given the same amount of time, the multi-threaded implementation can visit more web pages than the legacy implementation.
 
 ### Getting Started
 #### Dependencies
@@ -45,4 +44,4 @@ If you do decide to write more tests yourself, please do not modify any of the e
 
 ##### Acknowledgement to the following sources:
 
-Udacity - Cognizant Full Stack Developer Nanodegree Program https://www.udacity.com/; Java https://www.java.com/; Stack Overflow https://stackoverflow.com/; GitHub users https://github.com; Baeldung https://www.baeldung.com/; Tutorialspoint https://www.tutorialspoint.com/; GeeksforGeeks https://www.geeksforgeeks.org/; javaTpoint https://www.javatpoint.com/
+Java https://www.java.com/; Stack Overflow https://stackoverflow.com/; GitHub users https://github.com; Baeldung https://www.baeldung.com/; Tutorialspoint https://www.tutorialspoint.com/; GeeksforGeeks https://www.geeksforgeeks.org/; javaTpoint https://www.javatpoint.com/
